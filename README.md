@@ -2,7 +2,7 @@
 
 A modern, responsive website showcasing traditional Nguni cuisine — recipes, menu, booking and shopping cart — built with HTML, CSS and JavaScript.
 
-![Restaurant hero screenshot](images/hero-main.png)
+![Restaurant hero screenshot](<homepagescreen 1.png>)
 
 ## Repository description
 A beautifully-designed single-page website for a Traditional Nguni food restaurant. It features a premium animated hero, local currency (ZAR), a menu, booking form, cart with persistence, and accessibility-aware animations.
